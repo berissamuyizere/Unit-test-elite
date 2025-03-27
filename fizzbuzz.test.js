@@ -9,3 +9,4 @@ test('returns "Fizz" for 9', ()=>{
 test('returns "Buzz" for 10', ()=>{
     expect(fizzBuzz(10)).toBe('Buzz');
 });
+
